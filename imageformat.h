@@ -1,0 +1,5 @@
+#ifndef IMAGEFORMAT_H
+#define IMAGEFORMAT_H
+
+#endif // IMAGEFORMAT_H
+
